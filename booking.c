@@ -2,6 +2,8 @@
 #include<conio.h>
 main()
 {
+
+    // how are you guys ram ram sarya nu!
 	int i=0,choice,timing,ch_payment,card_num,cvv,otp,sent_otp=12345,flag=0;
 	char confirm,pr,feed,feedback[100],respond[100],pay_confirm;
 	struct trip_vacancy
